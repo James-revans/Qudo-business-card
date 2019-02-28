@@ -1,2 +1,2 @@
 # Qudo-business-card
-Qudo Content business card
+Qudo Creative business card
